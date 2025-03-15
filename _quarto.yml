@@ -14,7 +14,7 @@ website:
         text: Home
 
   sidebar:
-    background: "#f1de67" # Arylide Yellow
+    background: "#ffffff"
     logo: "images/logo.png"
     pinned: true
     align: center
