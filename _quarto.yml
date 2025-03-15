@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+
+execute:
+  freeze: auto
+
+website:
+  title: "Market Research"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+
+
+format:
+  html:
+    toc: false
+    theme: cosmo
+    css: custom.scss
+    code-copy: true
+    highlight-style: github-dark
+    code-overflow: wrap
+    author-meta: "Jan Kirenz"
+    callout-appearance: simple
+    include-in-header:
+      - text: |
+          <script src="password.js"></script>
