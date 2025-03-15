@@ -13,7 +13,25 @@ website:
       - href: index.qmd
         text: Home
 
+  sidebar:
+    background: "#f1de67" # Arylide Yellow
+    logo: "images/logo.png"
+    pinned: true
+    align: center
 
+
+    style: docked
+    search: true
+    collapse-level: 1
+    contents:
+      - section: "Course information"
+        contents:
+          - href: index.qmd
+            text: Overview
+      - section: "Computing"
+        contents:
+          - href: about.qmd
+            text: Access
 
 format:
   html:
