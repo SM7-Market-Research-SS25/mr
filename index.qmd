@@ -1,9 +1,0 @@
----
-title: "Market Research"
-execute: 
-  freeze: false
-  python: .venv/bin/python
----
-
-This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics might be updated throughout the semester.
-
