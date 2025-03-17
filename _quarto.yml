@@ -28,12 +28,10 @@ website:
         contents:
           - href: index.qmd
             text: Overview
-          - href: syllabus.qmd
-            text: Syllabus  
-      - section: "Weekly materials"
-        contents:
           - href: semester.qmd
             text: Weekly Overview
+          - href: syllabus.qmd
+            text: Syllabus  
      
 
 format:
