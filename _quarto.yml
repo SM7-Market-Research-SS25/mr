@@ -27,7 +27,7 @@ website:
       - section: "Course information"
         contents:
           - href: index.qmd
-            text: Overview
+            text: Semester Overview
           - href: semester.qmd
             text: Weekly Overview
           - href: syllabus.qmd

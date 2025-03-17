@@ -1,5 +1,6 @@
 ---
-title: "Semester overview"
+title: "Weekly overview"
+toc: true
 ---
 
 
