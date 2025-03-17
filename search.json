@@ -62,7 +62,7 @@
   {
     "objectID": "semester.html",
     "href": "semester.html",
-    "title": "Semester overview",
+    "title": "Weekly overview",
     "section": "",
     "text": "First Data Analysis\n\n\nHere you can find instructions on how to create Pivot Tables.\nDescriptive analysis of Netflix data:\n\nDownload the 📊 Netflix data (Google Sheets) in Excel format from the Google Sheets file.\n\nCreate your own Pivot Table (with “group” as rows and “outcome” as columns) and display percentage values.\nOpen Excel, go to the “Home” menu, and click on “Analyze Data.”\n\n\n\n\nPerform the anlysis of the data with Claude from Anthropic.\n\n\n\n\n\nData basics\n☑️",
     "crumbs": [
@@ -74,7 +74,7 @@
   {
     "objectID": "semester.html#week-1",
     "href": "semester.html#week-1",
-    "title": "Semester overview",
+    "title": "Weekly overview",
     "section": "",
     "text": "First Data Analysis\n\n\nHere you can find instructions on how to create Pivot Tables.\nDescriptive analysis of Netflix data:\n\nDownload the 📊 Netflix data (Google Sheets) in Excel format from the Google Sheets file.\n\nCreate your own Pivot Table (with “group” as rows and “outcome” as columns) and display percentage values.\nOpen Excel, go to the “Home” menu, and click on “Analyze Data.”\n\n\n\n\nPerform the anlysis of the data with Claude from Anthropic.\n\n\n\n\n\nData basics\n☑️",
     "crumbs": [
@@ -88,11 +88,11 @@
     "href": "index.html",
     "title": "SM7 Market Research",
     "section": "",
-    "text": "Welcome to our module Market Research (337094)! 👋\nThis page contains an outline of the topics and content for the semester.\n\nThe numbers have no way of speaking for themselves. We speak for them. Nate Silver\n\n\n\n\n\n\n\nNote that our schedule will be updated as the semester progresses.\n\n\n\nMoodle-course\n\n\n\n\n\n\n\n\n\nWEEK\nDATE\nPREPARE\nTOPIC\nMATERIALS\nLECTURE\n\n\n\n\n1\nTue, Mar 18\n\n\nFirst Data Analysis\n📑\nMarket Research\n\n\n\n\nTue, Mar 18\n\n\nData Basics\n📑 | ☑️\nStatistics",
+    "text": "Welcome to our module Market Research (337094)! 👋\n\nThe numbers have no way of speaking for themselves. We speak for them. Nate Silver\n\nThis page contains an outline of the topics and content for the semester.\n\n\n\n\n\n\nNote that our schedule will be updated as the semester progresses.\n\n\n\nMoodle-course\n\n\n\n\n\n\n\n\n\nWEEK\nDATE\nPREPARE\nTOPIC\nMATERIALS\nLECTURE\n\n\n\n\n1\nTue, Mar 18\n\n\nFirst Data Analysis\n📑\nMarket Research\n\n\n\n\nTue, Mar 18\n\n\nData Basics\n📑 | ☑️\nStatistics",
     "crumbs": [
       "Home",
       "Course information",
-      "Overview"
+      "Semester Overview"
     ]
   }
 ]
