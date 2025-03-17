@@ -1,0 +1,38 @@
+---
+title: "Semester overview"
+---
+
+
+## Week 1
+
+### Market Research
+
+First Data Analysis
+
+#### Analyze Netflix Data with Excel
+
+*[Here](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576) you can find instructions on how to create Pivot Tables.*
+
+Descriptive analysis of Netflix data:
+
+1. Download the [📊 Netflix data (Google Sheets)](https://docs.google.com/spreadsheets/d/1QO0UfC43YwJ0YIg5LWaYkVUX-qGh93wZZ6JLyHa3_bg/edit?gid=1337641040#gid=1337641040) in Excel format from the Google Sheets file.  
+2. Create your own Pivot Table (with "group" as rows and "outcome" as columns) and display percentage values.
+3. Open Excel, go to the "Home" menu, and click on "Analyze Data."  
+
+
+#### Analyze Netflix Data with Generative AI
+
+Perform the anlysis of the data with [Claude](https://claude.ai/new) from Anthropic.
+
+
+---
+
+
+### Statistics
+
+Data basics
+
+[☑️](https://forms.gle/EJT7mcYgPi8drKgR9)
+
+
+---

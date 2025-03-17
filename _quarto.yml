@@ -15,23 +15,27 @@ website:
 
   sidebar:
     background: "#ffffff"
-    logo: "images/logo.png"
+    logo: "images/logo.jpg"
     pinned: true
     align: center
 
 
     style: docked
     search: true
-    collapse-level: 1
+    collapse-level: 2
     contents:
       - section: "Course information"
         contents:
           - href: index.qmd
             text: Overview
-      - section: "Computing"
+          - href: syllabus.qmd
+            text: Syllabus  
+      - section: "Weekly materials"
         contents:
-          - href: about.qmd
-            text: Access
+          - href: weeks.qmd
+            text: Overview
+          - href: syllabus.qmd
+            text: Syllabus              
 
 format:
   html:

@@ -1,0 +1,48 @@
+---
+title: "Syllabus"
+---
+
+
+## Course info
+
+| Lecture          | Day       | Time              | Location |
+|-----------|-----------|-------------------|----------|
+| Market Research   | Tuesday    | 08:15  - 09:45  |  m034  |
+| Statistics   | Tuesday    | 10:00  - 11:30  |  m034  |
+
+
+
+## Learning objectives
+
+By the end of this module, students are able to: 
+
+- Effectively plan and execute market research projects 
+- Utilize tools like Excel for data analysis 
+- Clearly and effectively communicate results 
+- Conduct experiments and hypothesis tests 
+
+
+## Textbooks
+
+This course is mainly based on the following resources:
+
+- [Çetinkaya-Rundel, M. & Hardin, J (2024). Introduction to Modern Statistics (2ed). OpenIntro. Inc.](https://openintro-ims.netlify.app/)
+
+- Knaflic, C. N. (2015). Storytelling with data: A data visualization guide for business professionals. Wiley.
+
+
+## Where to get help
+
+- If you have a question during lecture, feel free to ask it! 
+- Outside of class, any general questions about course content or assignments should be posted on the Moodle course forum.
+- Emails should be reserved for questions not appropriate for the public forum. **If you email me, please include the name of our course in the subject line.** 
+
+Check out the [Support](course-support.qmd) page for more resources.
+
+
+### Exam {#sec-exams}
+
+Written exam (90 minutes) at the end of the semester. 60% market research and 40% statistics.
+More details about the exams will be given during the semester.
+
+
