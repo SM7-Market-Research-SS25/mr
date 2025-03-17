@@ -32,10 +32,9 @@ website:
             text: Syllabus  
       - section: "Weekly materials"
         contents:
-          - href: weeks.qmd
-            text: Overview
-          - href: syllabus.qmd
-            text: Syllabus              
+          - href: semester.qmd
+            text: Weekly Overview
+     
 
 format:
   html:
