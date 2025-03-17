@@ -6,10 +6,11 @@ title: "SM7 Market Research"
 
 Welcome to our module Market Research (337094)! 👋  
 
+>The numbers have no way of speaking for themselves. We speak for them. Nate Silver
+
 This page contains an outline of the topics and content for the semester. 
 
 
->The numbers have no way of speaking for themselves. We speak for them. Nate Silver
 
 
 :::{.callout-note appearance="minimal"}
