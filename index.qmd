@@ -1,27 +1,10 @@
 ---
 title: "SM7 Market Research"
-# execute: 
-#   freeze: auto
+execute: 
+  freeze: auto
 ---
 
-Welcome to our module Market Research (337094)! 👋  
-
->The numbers have no way of speaking for themselves. We speak for them. Nate Silver
-
-This page contains an outline of the topics and content for the semester. 
-
-
-
-
-:::{.callout-note appearance="minimal"}
-Note that our schedule will be updated as the semester progresses.
-:::
-
-
-[Moodle-course](https://moodle.hdm-stuttgart.de/course/view.php?id=21924)
-
----
-
+This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.
 
 ```{r}
 #| echo: false
@@ -44,10 +27,10 @@ d |>
   #filter(!is.na(session)) |>
   select(-dow, -session) |>
   mutate(date = as.Date(date)) |>
-  relocate(lecture, .after = materials) |>
+  relocate(due, .after = materials) |>
   gt() |>
   fmt_date(date, date_style = 31) |>
-  sub_missing(columns = c(week, prepare, topic, materials, lecture), missing_text = "") |>
+  sub_missing(columns = c(week, prepare, topic, materials, due), missing_text = "") |>
   cols_align(
     align = "center", 
     columns = c(week)
@@ -58,7 +41,7 @@ d |>
   ) |>
   cols_align(
     align = "left", 
-    columns = c(topic, prepare, materials, lecture)
+    columns = c(topic, prepare, materials, due)
   ) |>
   tab_style(
     style = cell_borders(
@@ -71,7 +54,7 @@ d |>
     )
   ) |>
   fmt_markdown(
-    columns = c(topic, prepare, materials, lecture)
+    columns = c(topic, prepare, materials, due)
   ) |>
   cols_width(
     week ~ px(45),
@@ -79,7 +62,7 @@ d |>
     prepare ~ px(100),
     topic ~ px(300),
     materials ~ px(150),
-    lecture ~ px(300)
+    due ~ px(300)
   ) |>
   cols_label_with(fn = function(x) {
       janitor::make_clean_names(x, case = "title") |>
