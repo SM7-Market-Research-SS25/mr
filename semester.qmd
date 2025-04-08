@@ -37,3 +37,20 @@ Data basics
 
 
 ---
+
+## Week 2
+
+No content
+
+## Week 3
+
+No content
+
+## Week 4
+
+
+### Task: AB Testing Experiment
+
+Design and plan an experiment using blocking techniques. Create two ad variations with a single distinct characteristic difference. Develop a complete experimental design and document your approach in this [shared document](https://docs.google.com/document/d/1SYkp846kb7W006CTouy07yEH1VKxL0W7iHsN-PO8-Ew/edit?usp=sharing).
+
+Optional information: [AB-Testing in Meta](https://blog.hubspot.com/blog/tabid/6307/bid/30893/how-to-split-test-your-facebook-ads-to-maximize-conversions.aspx)
