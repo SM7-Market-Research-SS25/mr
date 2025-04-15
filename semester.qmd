@@ -68,5 +68,13 @@ Download the Excel file with the survey results from Moodle.
 
 ### Statistics
 
+Task 1:
+
 Download the loans data as excel file: [Data](https://docs.google.com/spreadsheets/d/1SJhTA9rAS1EDz-eqXJOut54olPJJqOydJJ6sDD91ujA/edit?gid=0#gid=0)
 
+Create a histogram for the variable annual_income
+
+
+Task 2:
+
+Download the data as Excel-file; [Data](https://docs.google.com/spreadsheets/d/1xXhRBbKjqlglrUUdRKWhwG5XiMKQsbGqOagLara3V0k/edit#gid=0) 
