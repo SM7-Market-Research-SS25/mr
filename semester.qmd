@@ -66,3 +66,7 @@ Download the Excel file with the survey results from Moodle.
   - Which Porsche color do you find more suitable for an advertisement?
   - Which car would you associate more with a luxury brand?
 
+### Statistics
+
+Download the loans data as excel file: [Data](https://docs.google.com/spreadsheets/d/1SJhTA9rAS1EDz-eqXJOut54olPJJqOydJJ6sDD91ujA/edit?gid=0#gid=0)
+
