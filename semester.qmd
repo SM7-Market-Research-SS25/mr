@@ -53,3 +53,16 @@ No content
 AB Testing Experiment: Design and plan an experiment using blocking techniques. Create two ad variations with a single distinct characteristic difference. Develop a complete experimental design and document your approach in this [shared document](https://docs.google.com/document/d/1SYkp846kb7W006CTouy07yEH1VKxL0W7iHsN-PO8-Ew/edit?usp=sharing).
 
 Optional information: [AB-Testing in Meta](https://blog.hubspot.com/blog/tabid/6307/bid/30893/how-to-split-test-your-facebook-ads-to-maximize-conversions.aspx)
+
+## Week 5
+
+### Market Research
+
+Download the Excel file with the survey results from Moodle.
+
+- Analyze the variable age: Calculate the mean, median, and mode.
+
+- Determine how many participants answered “red” to both of the following questions:
+  - Which Porsche color do you find more suitable for an advertisement?
+  - Which car would you associate more with a luxury brand?
+
