@@ -78,3 +78,14 @@ Create a histogram for the variable annual_income
 Task 2:
 
 Download the data as Excel-file; [Data](https://docs.google.com/spreadsheets/d/1xXhRBbKjqlglrUUdRKWhwG5XiMKQsbGqOagLara3V0k/edit#gid=0) 
+
+
+## Week 7
+
+### Statistics
+
+E-Exam Preparation
+
+### Market Research
+
+Introduction to Regression Models
