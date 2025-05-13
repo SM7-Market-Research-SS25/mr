@@ -95,10 +95,15 @@ Introduction to Regression Models
 ### Statistics
 
 Task:
+
 - Download the [provided data](https://docs.google.com/spreadsheets/d/1Ugl8rArU7RKK9ytB752N_4GQBnHSfs8mkZCLgDM2dJA/edit?usp=drive_link) as an Excel sheet.
+
 - Identify the scale of measurement (nominal, ordinal, numeric integer, or numeric continuous) for each variable.
+
 - Generate a suitable plot to visualize the relationship between the two variables.
+
 - List two key insights derived from the plot.
+
 - Develop a regression model and state its equation.
 
 
