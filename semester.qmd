@@ -129,7 +129,7 @@ Task:
 **Tasks:**
 
 1.  **Explore Data:**
-    * Calculate descriptive statistics for all variables.
+    * Calculate descriptive statistics for Conversions (mean and standard deviation).
     * Create plots of `Conversions` vs. each independent variable. State your initial insights about relationships.
 2.  **Perform Regression (Excel Data Analysis):**
     * Predict different models using `Conversions` as an outcome variable. Obtain $R^2$. 
