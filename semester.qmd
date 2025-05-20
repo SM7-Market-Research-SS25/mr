@@ -112,7 +112,7 @@ Task:
 Task: Regression Analysis Exercise: Social Media Campaign Success:
 
 
-**Data**: [Link to data](https://docs.google.com/spreadsheets/d/1r76Qa87HicgHV2ZVFaVBGQnn5WwZPIVRyqYxu2yS7_s/edit?usp=sharing)
+**Data**: [Download the data to Excel](https://docs.google.com/spreadsheets/d/1r76Qa87HicgHV2ZVFaVBGQnn5WwZPIVRyqYxu2yS7_s/edit?usp=sharing)
 
 **Objective:** Analyze factors influencing the success of a social media campaign using regression in Excel.
 
