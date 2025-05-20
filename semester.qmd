@@ -92,7 +92,7 @@ Introduction to Regression Models
 
 ## Week 8
 
-### Statistics
+
 
 Task:
 
@@ -108,10 +108,9 @@ Task:
 
 ## Week 9
 
-### Statistics
 
+Task: Regression Analysis Exercise: Social Media Campaign Success:
 
-# Regression Analysis Exercise: Social Media Campaign Success
 
 **Data**: [Link to data](https://docs.google.com/spreadsheets/d/1r76Qa87HicgHV2ZVFaVBGQnn5WwZPIVRyqYxu2yS7_s/edit?usp=sharing)
 
