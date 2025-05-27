@@ -143,18 +143,39 @@ Task: Regression Analysis Exercise: Social Media Campaign Success:
 
 Task: Multiple Regression Analysis 
 
+Finding Regression Options in Excel
+
+On Mac (as you correctly described):
+
+- **Tools** → **Add-Ins** → **Data Analysis** → **Regression**
+
+On Windows:
+
+- **Data** → **Data Analysis** → **Regression**
+
+If "Data Analysis" is not visible: You need to first activate the Analysis ToolPak:
+
+Mac:
+
+- **Tools** → **Add-Ins** → Check "Analysis ToolPak" → **OK**
+
+Windows:
+
+- **File** → **Options** → **Add-Ins** → Select "Excel Add-ins" under "Manage" → **Go** → Check "Analysis ToolPak" → **OK**
+
+After activation, the "Data Analysis" option will appear in the ribbon, where you can find various statistical analysis tools including regression.
+
 
 **Data**: [Download the data to Excel](https://docs.google.com/spreadsheets/d/1r76Qa87HicgHV2ZVFaVBGQnn5WwZPIVRyqYxu2yS7_s/edit?usp=sharing)
 
 
 - Open the data in Excel
-- In the file menu: open `Extras`
-- Open Excel `Add-Ins` and select `Analyse-Funktionen`
+
 
 
 Create a multiple regression where we predict Conversion:
 
-- Open Extras and select `Daten-Analyse`
+- Select `Daten-Analyse`
 - Select Regression
   - Input Y Range: $F$1:$F$201
   - Input X Range: $B$1:$E$201
