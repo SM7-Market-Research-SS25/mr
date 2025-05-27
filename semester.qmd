@@ -145,7 +145,7 @@ Task: Multiple Regression Analysis
 
 Finding Regression Options in Excel
 
-On Mac (as you correctly described):
+On Mac:
 
 - **Tools** → **Add-Ins** → **Data Analysis** → **Regression**
 
