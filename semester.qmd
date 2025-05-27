@@ -137,3 +137,30 @@ Task: Regression Analysis Exercise: Social Media Campaign Success:
 4.  **Discussion:**
     * Which variables significantly impact conversions?
     * What are the practical implications for managing a social media campaign based on your findings?
+
+
+## Week 10
+
+Task: Multiple Regression Analysis 
+
+
+**Data**: [Download the data to Excel](https://docs.google.com/spreadsheets/d/1r76Qa87HicgHV2ZVFaVBGQnn5WwZPIVRyqYxu2yS7_s/edit?usp=sharing)
+
+
+- Open the data in Excel
+- In the file menu: open `Extras`
+- Open Excel `Add-Ins` and select `Analyse-Funktionen`
+
+
+Create a multiple regression where we predict Conversion:
+
+- Open Extras and select `Daten-Analyse`
+- Select Regression
+  - Input Y Range: $F$1:$F$201
+  - Input X Range: $B$1:$E$201
+  - Select: `Labels`
+  - Press `OK`
+
+
+
+
