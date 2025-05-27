@@ -108,6 +108,18 @@
     ]
   },
   {
+    "objectID": "semester.html#week-10",
+    "href": "semester.html#week-10",
+    "title": "Weekly overview",
+    "section": "Week 10",
+    "text": "Week 10\nTask: Multiple Regression Analysis\nData: Download the data to Excel\n\nOpen the data in Excel\nIn the file menu: open Extras\nOpen Excel Add-Ins and select Analyse-Funktionen\n\nCreate a multiple regression where we predict Conversion:\n\nOpen Extras and select Daten-Analyse\nSelect Regression\n\nInput Y Range: $F\\(1:\\)F$201\nInput X Range: $B\\(1:\\)E$201\nSelect: Labels\nPress OK",
+    "crumbs": [
+      "Home",
+      "Course information",
+      "Weekly Overview"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "SM7 Market Research",
