@@ -159,8 +159,12 @@ Create a multiple regression where we predict Conversion:
   - Input Y Range: $F$1:$F$201
   - Input X Range: $B$1:$E$201
   - Select: `Labels`
+  - Select: `Residual Plots` 
   - Press `OK`
 
+Important results:
 
+- R Square
+- Coefficients
 
 
