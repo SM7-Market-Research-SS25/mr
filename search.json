@@ -112,7 +112,7 @@
     "href": "semester.html#week-10",
     "title": "Weekly overview",
     "section": "Week 10",
-    "text": "Week 10\nTask: Multiple Regression Analysis\nData: Download the data to Excel\n\nOpen the data in Excel\nIn the file menu: open Extras\nOpen Excel Add-Ins and select Analyse-Funktionen\n\nCreate a multiple regression where we predict Conversion:\n\nOpen Extras and select Daten-Analyse\nSelect Regression\n\nInput Y Range: $F\\(1:\\)F$201\nInput X Range: $B\\(1:\\)E$201\nSelect: Labels\nSelect: Residual Plots\nPress OK\n\n\nImportant results:\n\nR Square\nCoefficients",
+    "text": "Week 10\nTask: Multiple Regression Analysis\nFinding Regression Options in Excel\nOn Mac (as you correctly described):\n\nTools → Add-Ins → Data Analysis → Regression\n\nOn Windows:\n\nData → Data Analysis → Regression\n\nIf “Data Analysis” is not visible: You need to first activate the Analysis ToolPak:\nMac:\n\nTools → Add-Ins → Check “Analysis ToolPak” → OK\n\nWindows:\n\nFile → Options → Add-Ins → Select “Excel Add-ins” under “Manage” → Go → Check “Analysis ToolPak” → OK\n\nAfter activation, the “Data Analysis” option will appear in the ribbon, where you can find various statistical analysis tools including regression.\nData: Download the data to Excel\n\nOpen the data in Excel\n\nCreate a multiple regression where we predict Conversion:\n\nSelect Daten-Analyse\nSelect Regression\n\nInput Y Range: $F\\(1:\\)F$201\nInput X Range: $B\\(1:\\)E$201\nSelect: Labels\nSelect: Residual Plots\nPress OK\n\n\nImportant results:\n\nR Square\nCoefficients",
     "crumbs": [
       "Home",
       "Course information",
