@@ -171,8 +171,6 @@ After activation, the "Data Analysis" option will appear in the ribbon, where yo
 
 - Open the data in Excel
 
-
-
 Create a multiple regression where we predict Conversion:
 
 - Select `Daten-Analyse`
