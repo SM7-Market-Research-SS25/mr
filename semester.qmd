@@ -187,3 +187,16 @@ Important results:
 - Coefficients
 
 
+## Week 11
+
+### Analysis of discrimination data
+
+Analyse the [data](https://docs.google.com/spreadsheets/d/10hoNBTVFlgspWbH34VVqkq5YTB2-nz1GD1Tz5ldEPBY/edit?usp=sharing) in Excel.
+
+Calaculate the test statistic (difference in promotion rates) 
+
+### Discussion of Exercises
+
+- [Chapter 2 (Study Design), Exercise 15](https://claude.ai/public/artifacts/f8213aae-ff52-412e-b54b-1dc550951a83)
+
+- [Chapter 5 (Exploring numerical data), Exercise 11](https://claude.ai/public/artifacts/1b78d8cf-c2cd-4ae5-a1b5-05567933736e)
