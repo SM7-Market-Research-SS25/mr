@@ -1,5 +1,77 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SM7 Market Research",
+    "section": "",
+    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.\n\n\n\n\n\n\n\n\nWEEK\nDATE\nSECTION\nTOPIC\nMATERIALS\nLECTURE\n\n\n\n\n1\nTue, Mar 18\nIntroduction\nFirst Data Analysis\n📑\nMarket Research\n\n\n\n\nTue, Mar 18\nHello Data\nData Basics\n📑 | ☑️\nStatistics\n\n\n2\nTue, Mar 25\nHello Data\nData Basics\n📑 | ☑️\nStatistics\n\n\n\n\nTue, Mar 25\nHello Data\nCreate a Survey\n📑\nMarket Research\n\n\n3\nTue, Apr 1\nHello Data\nPopulation and Sample\n📑\nMarket Research\n\n\n\n\nTue, Apr 1\nHello Data\nSampling methods\n📑\nMarket Research\n\n\n\n\nTue, Apr 1\nExploratory Data Analysis\nLoans data\n📑 | 💾\nStatistics\n\n\n\n\nTue, Apr 1\nExploratory Data Analysis\nSimple bar chart\n📑\nStatistics\n\n\n\n\nTue, Apr 1\nExploratory Data Analysis\nDodged bar plot\n📑\nStatistics\n\n\n\n\nTue, Apr 1\nExploratory Data Analysis\nStacked bar plot\n📑\nStatistics\n\n\n4\nTue, Apr 8\nHello Data\nExperiments\n📑\nMarket Research\n\n\n\n\nTue, Apr 8\nHello Data\nObservational studies\n📑\nMarket Research\n\n\n\n\nTue, Apr 8\nExploratory Data Analysis\nStandardized bar plot\n📑\nStatistics\n\n\n\n\nTue, Apr 8\nExploratory Data Analysis\nPie charts and more\n📑\nStatistics\n\n\n\n\nTue, Apr 8\nExploratory Data Analysis\nContingency tables\n📑\nStatistics\n\n\n\n\nTue, Apr 8\nExploratory Data Analysis\nScatter plot\n📑\nStatistics\n\n\n5\nTue, Apr 15\nExploratory Data Analysis\nMean Median and Mode\n📑\nMarket Research\n\n\n\n\nTue, Apr 15\nExploratory Data Analysis\nHistogram\n📑\nStatistics\n\n\n\n\nTue, Apr 15\nExploratory Data Analysis\nVariance and standard deviation\n📑\nStatistics\n\n\n6\nTue, Apr 22\nExploratory Data Analysis\nBox Plot\n📑\nMarket Research\n\n\n\n\nTue, Apr 22\nExploratory Data Analysis\nRobust statistics and transformations\n📑\nMarket Research\n\n\n\n\nTue, Apr 22\nExploratory Data Analysis\nComparing numerical data across groups\n📑\nStatistics\n\n\n\n\nTue, Apr 22\nExploratory Data Analysis\nCommunication\n📑\nStatistics\n\n\n7\nTue, May 6\nE-exam preparation\nE-exam preparation\nMoodle\nStatistics\n\n\n\n\nTue, May 6\nRegression Modelling\nSales and ads\n📑 | Data\nMarket Research\n\n\n\n\nTue, May 6\nRegression Modelling\nMean squared error\n📑 | Data ads 2\nMarket Research\n\n\n8\nTue, May 13\nRegression Modelling\nExample task with data ads 2\nSee weekly overview\nStatistics\n\n\n\n\nTue, May 13\nRegression Modelling\nFitting a line and residuals\n📑\nStatistics\n\n\n\n\nTue, May 13\nRegression Modelling\nCorrelation\n📑\nMarket Research\n\n\n\n\nTue, May 13\nRegression Modelling\nLeast squares regression\n📑\nMarket Research\n\n\n9\nTue, May 20\nRegression Modelling\nR squared (strenght of fit)\n📑\nStatistics\n\n\n\n\nTue, May 20\nRegression Modelling\nCategorical predictors with two levels\n📑\nMarket Research\n\n\n10\nTue, May 27\nRegression Modelling\nOutliers\n📑\nStatistics\n\n\n\n\nTue, May 27\nRegression Modelling\nMultiple predictors regression\n📑\nStatistics\n\n\n11\nTue, Jun 3\nInference foundations\nHypothesis tesing: Introduction\n📑\nStatistics\n\n\n\n\nTue, Jun 3\nInference foundations\nHypothesis tesing: p-value and statistical significance\n📑\nStatistics\n\n\n\n\nTue, Jun 3\nInference foundations\nHypothesis tesing: Summary\n📑\nStatistics\n\n\n\n\nTue, Jun 3\nInference foundations\nInference with mathematical models\n📑\nMarket Research",
+    "crumbs": [
+      "Home",
+      "Course information",
+      "Semester Overview"
+    ]
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Lecture\nDay\nTime\nLocation\n\n\n\n\nMarket Research\nTuesday\n08:15 - 09:45\nm034\n\n\nStatistics\nTuesday\n10:00 - 11:30\nm034",
+    "crumbs": [
+      "Home",
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-info",
+    "href": "syllabus.html#course-info",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Lecture\nDay\nTime\nLocation\n\n\n\n\nMarket Research\nTuesday\n08:15 - 09:45\nm034\n\n\nStatistics\nTuesday\n10:00 - 11:30\nm034",
+    "crumbs": [
+      "Home",
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#learning-objectives",
+    "href": "syllabus.html#learning-objectives",
+    "title": "Syllabus",
+    "section": "Learning objectives",
+    "text": "Learning objectives\nBy the end of this module, students are able to:\n\nEffectively plan and execute market research projects\nUtilize tools like Excel for data analysis\nClearly and effectively communicate results\nConduct experiments and hypothesis tests",
+    "crumbs": [
+      "Home",
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#textbooks",
+    "href": "syllabus.html#textbooks",
+    "title": "Syllabus",
+    "section": "Textbooks",
+    "text": "Textbooks\nThis course is mainly based on the following resources:\n\nÇetinkaya-Rundel, M. & Hardin, J (2024). Introduction to Modern Statistics (2ed). OpenIntro. Inc.\nKnaflic, C. N. (2015). Storytelling with data: A data visualization guide for business professionals. Wiley.",
+    "crumbs": [
+      "Home",
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#where-to-get-help",
+    "href": "syllabus.html#where-to-get-help",
+    "title": "Syllabus",
+    "section": "Where to get help",
+    "text": "Where to get help\n\nIf you have a question during lecture, feel free to ask it!\nOutside of class, any general questions about course content or assignments should be posted on the Moodle course forum.\nEmails should be reserved for questions not appropriate for the public forum. If you email me, please include the name of our course in the subject line.\n\n\nExam\nE-exam (90 minutes) at the end of the semester. 60% market research and 40% statistics. More details about the exam will be given during the semester.",
+    "crumbs": [
+      "Home",
+      "Course information",
+      "Syllabus"
+    ]
+  },
+  {
     "objectID": "semester.html",
     "href": "semester.html",
     "title": "Weekly overview",
@@ -117,78 +189,6 @@
       "Home",
       "Course information",
       "Weekly Overview"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "SM7 Market Research",
-    "section": "",
-    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.\n\n\n\n\n\n\n\n\nWEEK\nDATE\nSECTION\nTOPIC\nMATERIALS\nLECTURE\nDUE\n\n\n\n\n1\nTue, Mar 18\nIntroduction\nFirst Data Analysis\n📑\nMarket Research\nNA\n\n\n\n\nTue, Mar 18\nHello Data\nData Basics\n📑 | ☑️\nStatistics\nNA\n\n\n2\nTue, Mar 25\nHello Data\nData Basics\n📑 | ☑️\nStatistics\nNA\n\n\n\n\nTue, Mar 25\nHello Data\nCreate a Survey\n📑\nMarket Research\nNA\n\n\n3\nTue, Apr 1\nHello Data\nPopulation and Sample\n📑\nMarket Research\nNA\n\n\n\n\nTue, Apr 1\nHello Data\nSampling methods\n📑\nMarket Research\nNA\n\n\n\n\nTue, Apr 1\nExploratory Data Analysis\nLoans data\n📑 | 💾\nStatistics\nNA\n\n\n\n\nTue, Apr 1\nExploratory Data Analysis\nSimple bar chart\n📑\nStatistics\nNA\n\n\n\n\nTue, Apr 1\nExploratory Data Analysis\nDodged bar plot\n📑\nStatistics\nNA\n\n\n\n\nTue, Apr 1\nExploratory Data Analysis\nStacked bar plot\n📑\nStatistics\nNA\n\n\n4\nTue, Apr 8\nHello Data\nExperiments\n📑\nMarket Research\nNA\n\n\n\n\nTue, Apr 8\nHello Data\nObservational studies\n📑\nMarket Research\nNA\n\n\n\n\nTue, Apr 8\nExploratory Data Analysis\nStandardized bar plot\n📑\nStatistics\nNA\n\n\n\n\nTue, Apr 8\nExploratory Data Analysis\nPie charts and more\n📑\nStatistics\nNA\n\n\n\n\nTue, Apr 8\nExploratory Data Analysis\nContingency tables\n📑\nStatistics\nNA\n\n\n\n\nTue, Apr 8\nExploratory Data Analysis\nScatter plot\n📑\nStatistics\nNA\n\n\n5\nTue, Apr 15\nExploratory Data Analysis\nMean Median and Mode\n📑\nMarket Research\nNA\n\n\n\n\nTue, Apr 15\nExploratory Data Analysis\nHistogram\n📑\nStatistics\nNA\n\n\n\n\nTue, Apr 15\nExploratory Data Analysis\nVariance and standard deviation\n📑\nStatistics\nNA\n\n\n6\nTue, Apr 22\nExploratory Data Analysis\nBox Plot\n📑\nMarket Research\nNA\n\n\n\n\nTue, Apr 22\nExploratory Data Analysis\nRobust statistics and transformations\n📑\nMarket Research\nNA\n\n\n\n\nTue, Apr 22\nExploratory Data Analysis\nComparing numerical data across groups\n📑\nStatistics\nNA\n\n\n\n\nTue, Apr 22\nExploratory Data Analysis\nCommunication\n📑\nStatistics\nNA\n\n\n7\nTue, May 6\nE-exam preparation\nE-exam preparation\nMoodle\nStatistics\nNA\n\n\n\n\nTue, May 6\nRegression Modelling\nSales and ads\n📑 | Data\nMarket Research\nNA\n\n\n\n\nTue, May 6\nRegression Modelling\nMean squared error\n📑 | Data ads 2\nMarket Research\nNA\n\n\n8\nTue, May 13\nRegression Modelling\nExample task with data ads 2\nSee weekly overview\nStatistics\nNA\n\n\n\n\nTue, May 13\nRegression Modelling\nFitting a line and residuals\n📑\nStatistics\nNA\n\n\n\n\nTue, May 13\nRegression Modelling\nCorrelation\n📑\nMarket Research\nNA\n\n\n\n\nTue, May 13\nRegression Modelling\nLeast squares regression\n📑\nMarket Research\nNA\n\n\n9\nTue, May 20\nRegression Modelling\nR squared (strenght of fit)\n📑\nStatistics\nNA\n\n\n\n\nTue, May 20\nRegression Modelling\nCategorical predictors with two levels\n📑\nMarket Research\nNA\n\n\n10\nTue, May 27\nRegression Modelling\nOutliers\n📑\nStatistics\nNA\n\n\n\n\nTue, May 27\nRegression Modelling\nMultiple predictors regression\n📑\nStatistics\nNA\n\n\n11\nTue, Jun 3\nInference foundations\nHypothesis tesing: Introduction\n📑\nStatistics\nNA\n\n\n\n\nTue, Jun 3\nInference foundations\nHypothesis tesing: p-value and statistical significance\n📑\nStatistics\nNA\n\n\n\n\nTue, Jun 3\nInference foundations\nHypothesis tesing: Summary\n📑\nStatistics\nNA\n\n\n\n\nTue, Jun 3\nInference foundations\nInference with mathematical models\n📑\nMarket Research\nNA",
-    "crumbs": [
-      "Home",
-      "Course information",
-      "Semester Overview"
-    ]
-  },
-  {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Lecture\nDay\nTime\nLocation\n\n\n\n\nMarket Research\nTuesday\n08:15 - 09:45\nm034\n\n\nStatistics\nTuesday\n10:00 - 11:30\nm034",
-    "crumbs": [
-      "Home",
-      "Course information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#course-info",
-    "href": "syllabus.html#course-info",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Lecture\nDay\nTime\nLocation\n\n\n\n\nMarket Research\nTuesday\n08:15 - 09:45\nm034\n\n\nStatistics\nTuesday\n10:00 - 11:30\nm034",
-    "crumbs": [
-      "Home",
-      "Course information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#learning-objectives",
-    "href": "syllabus.html#learning-objectives",
-    "title": "Syllabus",
-    "section": "Learning objectives",
-    "text": "Learning objectives\nBy the end of this module, students are able to:\n\nEffectively plan and execute market research projects\nUtilize tools like Excel for data analysis\nClearly and effectively communicate results\nConduct experiments and hypothesis tests",
-    "crumbs": [
-      "Home",
-      "Course information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#textbooks",
-    "href": "syllabus.html#textbooks",
-    "title": "Syllabus",
-    "section": "Textbooks",
-    "text": "Textbooks\nThis course is mainly based on the following resources:\n\nÇetinkaya-Rundel, M. & Hardin, J (2024). Introduction to Modern Statistics (2ed). OpenIntro. Inc.\nKnaflic, C. N. (2015). Storytelling with data: A data visualization guide for business professionals. Wiley.",
-    "crumbs": [
-      "Home",
-      "Course information",
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#where-to-get-help",
-    "href": "syllabus.html#where-to-get-help",
-    "title": "Syllabus",
-    "section": "Where to get help",
-    "text": "Where to get help\n\nIf you have a question during lecture, feel free to ask it!\nOutside of class, any general questions about course content or assignments should be posted on the Moodle course forum.\nEmails should be reserved for questions not appropriate for the public forum. If you email me, please include the name of our course in the subject line.\n\n\nExam\nE-exam (90 minutes) at the end of the semester. 60% market research and 40% statistics. More details about the exam will be given during the semester.",
-    "crumbs": [
-      "Home",
-      "Course information",
-      "Syllabus"
     ]
   }
 ]
