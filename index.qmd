@@ -25,7 +25,7 @@ d <- read_sheet("https://docs.google.com/spreadsheets/d/1JIPpzN4EKvWO21YB7rzk9xS
 
 d |>
   #filter(!is.na(session)) |>
-  select(-dow, -session) |>
+  select(-dow, -session, -lecture) |>
   mutate(date = as.Date(date)) |>
   gt() |>
   fmt_date(date, date_style = 31) |>
